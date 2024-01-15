@@ -18,6 +18,7 @@ const appMessages = {
   'fr-ca': frcaMessages,
   'pt-br': ptbrMessages,
   'zh-cn': zhcnMessages,
+  'fa-ir': fairMessages,
 };
 
 export default [
