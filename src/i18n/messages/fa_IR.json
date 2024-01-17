@@ -128,7 +128,7 @@
   "learner-dash.courseCardMenu.emailSettings": "تنظیمات ایمیل",
   "learner-dash.courseCardMenu.shareToFacebook": "اشتراک‌گذاری در فیسبوک",
   "learner-dash.courseCardMenu.shareToTwitter": "اشتراک‌گذاری در توییتر",
-  "learner-dash.courseCardMenu.shareQuote": "من در حال یادگیری دوره آنلاین {courseName} با {socialBrand} هستم. به این دوره نگاهی بیندازید!"
+  "learner-dash.courseCardMenu.shareQuote": "من در حال یادگیری دوره آنلاین {courseName} با {socialBrand} هستم. به این دوره نگاهی بیندازید!",
   "learner-dash.emailSettings.header": "ایمیل دوره دریافت می کنید؟",
   "learner-dash.emailSettings.emailsOff": "ایمیل های دوره خاموش هستند",
   "learner-dash.emailSettings.emailsOn": "ایمیل های دوره روشن است",
